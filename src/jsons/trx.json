@@ -1,0 +1,17 @@
+[{
+	"TrxCategory":[
+		{"name":"General","isVisible":false,"id":"a8c6492b-69c7-46a5-b0af-9963f6779315"},
+		{"name":"Team","isVisible":false,"id":"4bb55fc4-2752-4d36-bb0e-8d2f90629bd3"},
+		{"name":"Summary","isVisible":false,"id":"2d3c3eab-5a53-41ea-be45-75c8cdc7a34a"},
+		{"name":"Clients","isVisible":false,"id":"e5464904-7506-4f53-bdc4-27ce944c686f"},
+		{"name":"Company","isVisible":false,"id":"d15897fc-cf09-4e41-bbc1-f88d5b27fb6b"},
+		{"name":"Details","isVisible":false,"id":"b093fd5d-ad22-483e-b0d1-f07a784d76cf"}
+	],
+	"TrxQuestions":[
+		{"question":"reasonForSubmission","label":"Reason for submission","value":"","isVisible":true,"categoryID":"a8c6492b-69c7-46a5-b0af-9963f6779315","id":"ad0acc06-2e29-497e-8d27-1b919e96d4ac"},
+		{"question":"isDealPipeline","label":"Deal Pipeline entry created?","value":"","isVisible":false,"categoryID":"a8c6492b-69c7-46a5-b0af-9963f6779315","id":"6699f23c-f6a1-43a3-ad6e-33cf79c06e30"},
+		{"question":"DealPipelineNumber","label":"Deal Pipeline id","value":"","isVisible":false,"categoryID":"a8c6492b-69c7-46a5-b0af-9963f6779315","id":"2aecfeca-7df5-4649-b498-9e762dba654a"},
+		{"question":"isRegisterCreated","label":"Register Created?","value":"","isVisible":false,"categoryID":"a8c6492b-69c7-46a5-b0af-9963f6779315","id":"26464a32-0682-44b6-bd62-f34d58076ddb"},
+		{"question":"registerNumber","label":"","value":"Register Created id","isVisible":true,"categoryID":"a8c6492b-69c7-46a5-b0af-9963f6779315","id":"2d67f757-0ceb-4c8e-a0e7-2c1e9dc359f7"}
+	]
+}]
