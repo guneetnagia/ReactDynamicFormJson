@@ -1,0 +1,56 @@
+{
+	"reasonOfSubmission": [
+        {"id":"31382fed-1aea-4392-88e8-bf937e70e979","label":"Conflict Clearance Request"},
+        {"id":"3637f056-bcce-4150-ac9f-3a3df6857e79","label":"Capital Markets Notification"},
+        {"id":"9dd3e519-61fa-4572-9c1e-68619b985e6b","label":"Move to LMU"},
+        {"id":"337c49e9-3513-4e84-80e9-5a21dcc2828c","label":"Reciept of MNPI"},
+        {"id":"a4622df4-3f7b-470d-bf39-2ecf4760bdcb","label":"Portfolio Management Request"},
+        {"id":"e099480a-72a5-4b6b-b8f7-7127197b6055","label":"Principal Investment Request"},
+        {"id":"841a2ce8-3103-4d42-970b-117c1f372632","label":"HSBC Group M&A"},
+        {"id":"96ad3fd5-0c7b-406c-a4c4-e6462ce6af22","label":"Strategic Innovation and Investments"},
+        {"id":"5576704e-871f-4102-8738-bd02a58d4411","label":"(Mandatory)"}
+    ],
+    "trxCategory":{
+        "31382fed-1aea-4392-88e8-bf937e70e979":[
+            {"id":"02ceb919-9718-4300-8003-acb9404775c5","topic_label":"General"},
+            {"id":"6fefb8d9-e635-4865-8216-adbbce7e7adf","topic_label":"Team"},
+            {"id":"0736235a-a36a-4808-bc9e-559fd9b7bd00","topic_label":"Summary"},
+            {"id":"c47212d6-fbe5-4013-8465-258aa293c51a","topic_label":"Client"},
+            {"id":"7dc8bbe1-fbf8-407b-bcab-9c8fbbd3a768","topic_label":"Other Companies"},
+            {"id":"1949c5e6-579f-4a9f-ac8d-be1bcdb857b6","topic_label":"Details"}
+        ],
+        "3637f056-bcce-4150-ac9f-3a3df6857e79":[
+            {"id":"02ceb919-9718-4300-8003-acb9404775c5","topic_label":"General"},
+            {"id":"6fefb8d9-e635-4865-8216-adbbce7e7adf","topic_label":"Team"},
+            {"id":"0736235a-a36a-4808-bc9e-559fd9b7bd00","topic_label":"Summary"},
+            {"id":"c47212d6-fbe5-4013-8465-258aa293c51a","topic_label":"Client"},
+            {"id":"7dc8bbe1-fbf8-407b-bcab-9c8fbbd3a768","topic_label":"Other Companies"},
+            {"id":"1949c5e6-579f-4a9f-ac8d-be1bcdb857b6","topic_label":"Details"}
+        ],
+        "9dd3e519-61fa-4572-9c1e-68619b985e6b":[
+            {"id":"6fefb8d9-e635-4865-8216-adbbce7e7adf","topic_label":"Team"},
+            {"id":"0736235a-a36a-4808-bc9e-559fd9b7bd00","topic_label":"Summary"},
+            {"id":"c47212d6-fbe5-4013-8465-258aa293c51a","topic_label":"Client"}            
+        ]
+    },
+    "questions":{
+        "02ceb919-9718-4300-8003-acb9404775c5":[
+            {"id":"121d7a0a-f4d2-4caa-ba38-c4194bb1519c","label":"Deal Pipeline entry Created?","placeholder":"","type":"radio","priority":"1","isVisible":true},
+            {"id":"6c359e8d-5aa2-4d0a-bdee-21f422d55ff7","label":"","placeholder":"Deal Pipeline id #","type":"text","priority":"2","isVisible":false},
+            {"id":"31687f18-6065-4cc3-b3b7-a2200e41827d","label":"Register Created?","placeholder":"","type":"radio","priority":"3","isVisible":true},
+            {"id":"4ab1b2d3-1729-4e7e-b76f-bb2c85bed70a","label":"","placeholder":"Register id #","type":"text","priority":"4","isVisible":false},
+            {"id":"323cd791-02ee-4643-9c71-1547b0a8fe29","label":"BSC approval submitted?","placeholder":"","type":"radio","priority":"5","isVisible":true},
+            {"id":"2ea089c0-15b8-4324-86c0-f5fbcc88ecc7","label":"","placeholder":"BSC id #","type":"text","priority":"6","isVisible":false},
+            {"id":"0ec5adea-bffa-42b7-baf2-4904de99a8b0","label":"Priority","placeholder":"","type":"drop-down","priority":"5","isVisible":true},
+            {"id":"4403a5b0-658d-4381-9dd0-b70906f5911f","label":"Reason for urgent priority","placeholder":"* Mandatory","type":"text","priority":"6","isVisible":false}
+        ],
+        "6fefb8d9-e635-4865-8216-adbbce7e7adf":[],
+        "0736235a-a36a-4808-bc9e-559fd9b7bd00":[
+            {"id":"792bdc21-5a54-4487-9868-29da0aaee26d","label":"Primary Transaction Type","placeholder":"","type":"drop-down","priority":"7","isVisible":true},
+            {"id":"00e84a1e-8dee-43f6-bc3b-2496c522babf","label":"Role Types","placeholder":"","type":"drop-down","priority":"8","isVisible":false}
+        ],
+        "c47212d6-fbe5-4013-8465-258aa293c51a":[],
+        "7dc8bbe1-fbf8-407b-bcab-9c8fbbd3a768":[],
+        "1949c5e6-579f-4a9f-ac8d-be1bcdb857b6":[]
+    }
+}
