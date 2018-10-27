@@ -1,0 +1,12 @@
+.main-body {
+  display: flex;
+  flex-direction: row;
+}
+
+.right-pane {
+  width: 100%;
+}
+
+.left-pane, .right-pane {
+  padding: 20px
+}
